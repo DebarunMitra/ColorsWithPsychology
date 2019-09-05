@@ -1,7 +1,7 @@
 # ColorsWithPsychology
-#Author:
+# Author:
 Debarun Mitra
-#Technology Used
+# Technology Used
 HTML,Bootstrap
-#Objective
+# Objective
 Every color has its own meaning, which makes them special.
